@@ -1,3 +1,7 @@
+- Code developed By Rui Peleja and Rui Vieira
+- Project 01 from "Artificial Intelligence Fundamentals" (MIAA)
+
+
 Import the libraries
 
 The following code imports the required library.
